@@ -6,7 +6,7 @@ The paper describes the use of neural networks for the estimation of treatment e
 You will need to install sklearn, numpy, pytorch and, pandas
 
 # Data
-The used data are the IHDP, Jobs ,Twins and BlogCatalog datasets. These can be retrieved via [https://www.fredjo.com/](https://www.fredjo.com/) and https://github.com/rguo12/network-deconfounderwsdm20/tree/master/datasets/BlogCatalog1. 
+The used data are the IHDP, Jobs ,Twins and BlogCatalog datasets. These can be retrieved via [https://www.fredjo.com/](https://www.fredjo.com/) and https://github.com/rguo12/network-deconfounder/wsdm20/tree/master/datasets/BlogCatalog1. 
 
 This package includes the python code of the DRLECB(Disentangle Representation Learning with Excluding Confounding Bias for Causal Effect Estimation). <br>
 
